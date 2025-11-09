@@ -27,6 +27,7 @@ class Solution {
                 int nextvalue = 0;
 
                 switch(nextChar){
+                    
                     case 'I': nextvalue = 1;
                     break;
                     case 'V': nextvalue = 5;
