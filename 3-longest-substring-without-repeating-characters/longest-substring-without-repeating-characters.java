@@ -1,11 +1,11 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int maxl =0;
-        String temp="";
+        int maxl = 0;
+        String temp = "";
         for(int i=0;i<s.length();i++){
             temp="";
             for(int j=i;j<s.length();j++){
-                char ch=s.charAt(j);
+                char ch = s.charAt(j);
                 if(temp.indexOf(ch)!=-1){
                     break;
                 }
@@ -13,7 +13,7 @@ class Solution {
                     temp=temp+ch;
                 }
             }
-            if(temp.length()>maxl){
+            if(maxl<temp.length()){
                 maxl = temp.length();
             }
         }
