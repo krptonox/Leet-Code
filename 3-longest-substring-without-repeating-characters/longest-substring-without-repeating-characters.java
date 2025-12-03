@@ -3,18 +3,18 @@ class Solution {
         String temp = "";
         int max = 0;
         for(int i=0;i<s.length();i++){
-           temp="";
-           for(int j=i;j<s.length();j++){
+            temp="";
+            for(int j=i;j<s.length();j++){
                 char ch = s.charAt(j);
                 if(temp.indexOf(ch)!=-1){
-                    break;  
+                    break;
                 }
-                else{
-                    temp+=ch;
-                }
-           }
-           max=Math.max(temp.length(),max);
+                temp+=ch;
+            }
+            max=Math.max(temp.length(),max);
         }
+
+
         return max;
     }
 }
