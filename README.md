@@ -17,10 +17,12 @@
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krptonox/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krptonox/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krptonox/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/krptonox/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krptonox/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Interactive
