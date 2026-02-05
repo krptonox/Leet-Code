@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/krptonox/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
