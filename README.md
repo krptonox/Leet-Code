@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krptonox/Leet-Code/tree/master/0001-two-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krptonox/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/krptonox/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krptonox/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krptonox/Leet-Code/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 ## Sorting
