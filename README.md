@@ -23,6 +23,7 @@
 | [0162-find-peak-element](https://github.com/krptonox/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krptonox/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krptonox/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krptonox/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -57,6 +58,7 @@
 | [0001-two-sum](https://github.com/krptonox/Leet-Code/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
+| [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
 ## Sorting
 |  |
 | ------- |
