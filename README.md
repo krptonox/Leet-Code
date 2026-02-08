@@ -26,6 +26,7 @@
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krptonox/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krptonox/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
+| [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 <!---LeetCode Topics End-->
