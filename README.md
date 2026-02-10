@@ -28,6 +28,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/krptonox/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1534-count-good-triplets](https://github.com/krptonox/Leet-Code/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +77,8 @@
 | ------- |
 | [1534-count-good-triplets](https://github.com/krptonox/Leet-Code/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
