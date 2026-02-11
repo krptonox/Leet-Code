@@ -29,6 +29,7 @@
 | [0867-transpose-matrix](https://github.com/krptonox/Leet-Code/tree/master/0867-transpose-matrix) |
 | [1534-count-good-triplets](https://github.com/krptonox/Leet-Code/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/krptonox/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/krptonox/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
@@ -88,6 +89,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/krptonox/Leet-Code/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/krptonox/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/krptonox/Leet-Code/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
