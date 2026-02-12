@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krptonox/Leet-Code/tree/master/0070-climbing-stairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [1534-count-good-triplets](https://github.com/krptonox/Leet-Code/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/krptonox/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/krptonox/Leet-Code/tree/master/1672-richest-customer-wealth) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
@@ -65,6 +67,7 @@
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Sorting
@@ -83,6 +86,7 @@
 ## Counting
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
 |  |
