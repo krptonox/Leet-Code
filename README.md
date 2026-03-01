@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krptonox/Leet-Code/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/krptonox/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/krptonox/Leet-Code/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krptonox/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/krptonox/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krptonox/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
