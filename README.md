@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/krptonox/Leet-Code/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/krptonox/Leet-Code/tree/master/0070-climbing-stairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2652-sum-multiples](https://github.com/krptonox/Leet-Code/tree/master/2652-sum-multiples) |
@@ -116,4 +117,8 @@
 | [0136-single-number](https://github.com/krptonox/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/krptonox/Leet-Code/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/krptonox/Leet-Code/tree/master/0260-single-number-iii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
