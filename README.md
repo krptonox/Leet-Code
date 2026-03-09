@@ -31,6 +31,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krptonox/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/krptonox/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krptonox/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/krptonox/Leet-Code/tree/master/0260-single-number-iii) |
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krptonox/Leet-Code/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
