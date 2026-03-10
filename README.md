@@ -26,6 +26,7 @@
 | [0001-two-sum](https://github.com/krptonox/Leet-Code/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krptonox/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/krptonox/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/krptonox/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/krptonox/Leet-Code/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krptonox/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krptonox/Leet-Code/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/krptonox/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/krptonox/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
