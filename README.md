@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/krptonox/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krptonox/Leet-Code/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/krptonox/Leet-Code/tree/master/0070-climbing-stairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -73,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/krptonox/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/krptonox/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -120,6 +122,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
 | [0867-transpose-matrix](https://github.com/krptonox/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
