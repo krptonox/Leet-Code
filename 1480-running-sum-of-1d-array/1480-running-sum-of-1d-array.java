@@ -2,11 +2,11 @@ class Solution {
     public int[] runningSum(int[] nums) {
         int currsum = 0;
         int maxsum = Integer.MIN_VALUE;
-        int prefix[] = new int[nums.length];
-        prefix[0] = nums[0];
+        int Prefix[] = new int[nums.length];
+        Prefix[0] = nums[0];
         for(int i=1;i<nums.length;i++){
-            prefix[i] = prefix[i-1]+nums[i];
+            Prefix[i] = Prefix[i-1]+nums[i];
         }
-        return prefix;
+        return Prefix;
     }
 }
