@@ -10,6 +10,7 @@
 | [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/krptonox/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/krptonox/Leet-Code/tree/master/0292-nim-game) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2652-sum-multiples](https://github.com/krptonox/Leet-Code/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
@@ -149,4 +150,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/krptonox/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/krptonox/Leet-Code/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/krptonox/Leet-Code/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
