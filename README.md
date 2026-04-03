@@ -53,6 +53,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/krptonox/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/krptonox/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/krptonox/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Brainteaser
 |  |
 | ------- |
