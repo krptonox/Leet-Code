@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/krptonox/Leet-Code/tree/master/0206-reverse-linked-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/krptonox/Leet-Code/tree/master/0045-jump-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/krptonox/Leet-Code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
