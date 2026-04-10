@@ -90,6 +90,7 @@
 | [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/krptonox/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/krptonox/Leet-Code/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@
 | [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
@@ -109,6 +111,7 @@
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 | [0137-single-number-ii](https://github.com/krptonox/Leet-Code/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/krptonox/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/krptonox/Leet-Code/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
