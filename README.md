@@ -85,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krptonox/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/krptonox/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
@@ -182,4 +183,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krptonox/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/krptonox/Leet-Code/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krptonox/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
