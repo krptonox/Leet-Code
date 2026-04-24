@@ -89,6 +89,7 @@
 | [0283-move-zeroes](https://github.com/krptonox/Leet-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krptonox/Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/krptonox/Leet-Code/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0344-reverse-string](https://github.com/krptonox/Leet-Code/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/krptonox/Leet-Code/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1598-crawler-log-folder](https://github.com/krptonox/Leet-Code/tree/master/1598-crawler-log-folder) |
 ## Hash Table
 |  |
@@ -149,6 +151,7 @@
 | [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/krptonox/Leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/krptonox/Leet-Code/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/krptonox/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -201,5 +204,6 @@
 | [0020-valid-parentheses](https://github.com/krptonox/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/krptonox/Leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/krptonox/Leet-Code/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1598-crawler-log-folder](https://github.com/krptonox/Leet-Code/tree/master/1598-crawler-log-folder) |
 <!---LeetCode Topics End-->
