@@ -55,6 +55,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/krptonox/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/krptonox/Leet-Code/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/krptonox/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
+| [1598-crawler-log-folder](https://github.com/krptonox/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/krptonox/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
@@ -100,6 +101,7 @@
 | [0344-reverse-string](https://github.com/krptonox/Leet-Code/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/krptonox/Leet-Code/tree/master/0392-is-subsequence) |
+| [1598-crawler-log-folder](https://github.com/krptonox/Leet-Code/tree/master/1598-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,4 +201,5 @@
 | [0020-valid-parentheses](https://github.com/krptonox/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/krptonox/Leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/krptonox/Leet-Code/tree/master/0735-asteroid-collision) |
+| [1598-crawler-log-folder](https://github.com/krptonox/Leet-Code/tree/master/1598-crawler-log-folder) |
 <!---LeetCode Topics End-->
