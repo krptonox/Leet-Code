@@ -25,42 +25,42 @@ class Solution {
             }
            }
         }
-        // int count = 0;
-        // System.out.println(st1.size()+" "+ st.size());
-        // boolean size = false;
-        // int s01 = st.size();
-        // if(st.size()==st1.size()){
-        //     int s0 = st.size();
-        //     size = true;
-        //     for(int i=0;i<s0;i++){
-        //         char st11 = st1.pop();
-        //         char st2 = st.pop();
-        //         if(st11==st2){
-        //             count++;
-        //             System.out.print(st11+" "+st2);
-        //         }
-        //     }
-        // }
-        // if(size){
-        //     if(count==s01) return true;
-        // }    
-        // return false;
-        if (st.size() == st1.size()) {
+        int count = 0;
+        System.out.println(st1.size()+" "+ st.size());
+        boolean size = false;
+        int s01 = st.size();
+        if(st.size()==st1.size()){
             int s0 = st.size();
-            int count = 0;
-
-        for (int i = 0; i < s0; i++) {
-            char a = st.pop();
-            char b = st1.pop();
-
-           if (a == b) {
-               count++;
+            size = true;
+            for(int i=0;i<s0;i++){
+                char st11 = st1.pop();
+                char st2 = st.pop();
+                if(st11==st2){
+                    count++;
+                    System.out.print(st11+" "+st2);
+                }
             }
         }
+        if(size){
+            if(count==s01) return true;
+        }    
+        return false;
+        // if (st.size() == st1.size()) {
+        //     int s0 = st.size();
+        //     int count = 0;
 
-         if (count == s0) return true;
-        }
+        // for (int i = 0; i < s0; i++) {
+        //     char a = st.pop();
+        //     char b = st1.pop();
 
-         return false;
+        //    if (a == b) {
+        //        count++;
+        //     }
+        // }
+
+        //  if (count == s0) return true;
+        // }
+
+        //  return false;
     }
 }
