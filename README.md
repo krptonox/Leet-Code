@@ -107,6 +107,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/krptonox/Leet-Code/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/krptonox/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/krptonox/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [2716-minimize-string-length](https://github.com/krptonox/Leet-Code/tree/master/2716-minimize-string-length) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2716-minimize-string-length](https://github.com/krptonox/Leet-Code/tree/master/2716-minimize-string-length) |
 ## Sorting
 |  |
 | ------- |
