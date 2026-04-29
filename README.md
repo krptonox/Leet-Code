@@ -13,6 +13,7 @@
 | [0292-nim-game](https://github.com/krptonox/Leet-Code/tree/master/0292-nim-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krptonox/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/krptonox/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2652-sum-multiples](https://github.com/krptonox/Leet-Code/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
@@ -158,6 +159,7 @@
 | [0735-asteroid-collision](https://github.com/krptonox/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/krptonox/Leet-Code/tree/master/0867-transpose-matrix) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/krptonox/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/krptonox/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
