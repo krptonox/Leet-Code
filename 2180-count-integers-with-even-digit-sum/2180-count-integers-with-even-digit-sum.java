@@ -1,19 +1,18 @@
 class Solution {
     public int countEven(int num) {
-        int count = 0;
-        for(int i=1;i<=num;i++){
-            int temp = i;
-            int sum = 0;
-           while(sum<=num){
-              int rem = temp%10;
-              sum+=rem;
-              temp=temp/10;
-              if(temp==0) break;
-           }
-           if(sum%2==0){
-            count++;
-           }
+        int sum = digitSum(num);
+        if(sum%2==0){
+            return num/2;
         }
-        return count;
+        return (num-1)/2;
+    }
+    public static int digitSum(int num){
+        int sum = 0;
+        while(num>0){
+            int dig = num%10;
+            sum+=dig;
+            num=num/10;
+        }
+        return sum;
     }
 }
