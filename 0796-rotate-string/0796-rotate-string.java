@@ -2,16 +2,9 @@ class Solution {
     public boolean rotateString(String s, String goal) {
         if(s.length()!=goal.length()) return false;
         if(s.equals(goal)) return true;
-        // String result = "";
+        String result = s + s;
         boolean ans = false;
-        for(int i=0;i<s.length();i++){
-            s = s.substring(1)+s.charAt(0);
-            System.out.println(s);
-            if(s.equals(goal)){
-                ans = true;
-                return ans;
-            }
-        }
-        return ans;
+        if(result.contains(goal)) return true;
+        return false;
     }
 }
