@@ -63,6 +63,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krptonox/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
@@ -125,6 +126,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2716-minimize-string-length](https://github.com/krptonox/Leet-Code/tree/master/2716-minimize-string-length) |
 ## Sorting
 |  |
@@ -133,6 +135,7 @@
 | [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/krptonox/Leet-Code/tree/master/0867-transpose-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/krptonox/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/krptonox/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
@@ -204,6 +208,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/krptonox/Leet-Code/tree/master/0045-jump-game-ii) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
 | ------- |
@@ -224,4 +229,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/krptonox/Leet-Code/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
