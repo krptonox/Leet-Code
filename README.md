@@ -65,6 +65,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krptonox/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3861-minimum-capacity-box](https://github.com/krptonox/Leet-Code/tree/master/3861-minimum-capacity-box) |
 ## Binary Search
 |  |
 | ------- |
