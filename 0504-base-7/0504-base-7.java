@@ -7,13 +7,11 @@ class Solution {
             return "0";
         }
         while(num1>0){
-            int rem = num1%7;
-            sb.append(rem);
+            sb.append(num1%7);
             num1=num1/7;
         }      
         sb.reverse();  
         String result = sb.toString();
-        System.out.print(result);
         if(chk){
             result = "-"+result;
             return result;
