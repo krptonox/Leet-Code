@@ -10,12 +10,8 @@ class Solution {
             sb.append(num1%7);
             num1=num1/7;
         }      
-        sb.reverse();  
-        String result = sb.toString();
-        if(chk){
-            result = "-"+result;
-            return result;
-        }
-        return result;
+        if(chk) sb.append("-");
+        
+        return sb.reverse().toString();
     }
 }
