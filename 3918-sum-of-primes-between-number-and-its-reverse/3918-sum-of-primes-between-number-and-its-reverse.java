@@ -7,21 +7,15 @@ class Solution {
             r=(r*10)+digit;
             temp=temp/10;
         }
+
         int sum = 0;
-        if(n>r){
-            for(int i=r;i<=n;i++){
+        int start = Math.min(n,r);
+        int end = Math.max(n,r);
+            for(int i=start;i<=end;i++){
                 if(isPrime(i)){
                     sum+=i;
                 }
             }
-        }
-        else{
-            for(int i=n;i<=r;i++){
-                if(isPrime(i)){
-                    sum+=i;
-                }
-            }
-        }
         return sum;
     }
     public boolean isPrime(int n){
