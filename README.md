@@ -17,6 +17,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/krptonox/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2652-sum-multiples](https://github.com/krptonox/Leet-Code/tree/master/2652-sum-multiples) |
+| [3516-find-closest-person](https://github.com/krptonox/Leet-Code/tree/master/3516-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
