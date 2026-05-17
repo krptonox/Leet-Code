@@ -225,6 +225,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krptonox/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/krptonox/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/krptonox/Leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/krptonox/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
@@ -240,4 +241,12 @@
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/krptonox/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/krptonox/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
