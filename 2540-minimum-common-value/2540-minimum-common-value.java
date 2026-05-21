@@ -6,11 +6,11 @@ class Solution {
             if(nums1[i]==nums2[j]){
                 return nums1[i];
             }
-            else if(nums1[i]>nums2[j]){
-                j++;
+            else if(nums1[i]<nums2[j]){
+                i++;
             }
             else{
-                i++;
+                j++;
             }
         }
         return -1;
