@@ -67,6 +67,7 @@
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krptonox/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3861-minimum-capacity-box](https://github.com/krptonox/Leet-Code/tree/master/3861-minimum-capacity-box) |
 ## Binary Search
@@ -82,6 +83,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/krptonox/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krptonox/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krptonox/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0392-is-subsequence](https://github.com/krptonox/Leet-Code/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [2396-strictly-palindromic-number](https://github.com/krptonox/Leet-Code/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/krptonox/Leet-Code/tree/master/2716-minimize-string-length) |
 ## Sorting
 |  |
