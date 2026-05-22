@@ -69,6 +69,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/krptonox/Leet-Code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krptonox/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krptonox/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3861-minimum-capacity-box](https://github.com/krptonox/Leet-Code/tree/master/3861-minimum-capacity-box) |
@@ -86,6 +87,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krptonox/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krptonox/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/krptonox/Leet-Code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krptonox/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
@@ -105,6 +107,7 @@
 | [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [2396-strictly-palindromic-number](https://github.com/krptonox/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/krptonox/Leet-Code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krptonox/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -150,6 +153,7 @@
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/krptonox/Leet-Code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krptonox/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
