@@ -10,6 +10,7 @@
 | [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/krptonox/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/krptonox/Leet-Code/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/krptonox/Leet-Code/tree/master/0292-nim-game) |
 | [0504-base-7](https://github.com/krptonox/Leet-Code/tree/master/0504-base-7) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krptonox/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -47,6 +48,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krptonox/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/krptonox/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krptonox/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/krptonox/Leet-Code/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/krptonox/Leet-Code/tree/master/0260-single-number-iii) |
@@ -163,6 +165,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/krptonox/Leet-Code/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/krptonox/Leet-Code/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 ## Counting
@@ -264,4 +267,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/krptonox/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krptonox/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
