@@ -131,6 +131,7 @@
 | [1598-crawler-log-folder](https://github.com/krptonox/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/krptonox/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/krptonox/Leet-Code/tree/master/2716-minimize-string-length) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/krptonox/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/krptonox/Leet-Code/tree/master/2716-minimize-string-length) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/krptonox/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
