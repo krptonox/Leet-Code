@@ -17,13 +17,8 @@ class Solution {
            count++;
         }
         ListNode temp1 = head;
-        int chk = 0;
-        if(count%2==0){
-           chk=count/2;
-        }
-        else{
-            chk=count/2;
-        }
+        int chk = count/2;
+        
         while(chk>0){
             temp1=temp1.next;
             chk--;
