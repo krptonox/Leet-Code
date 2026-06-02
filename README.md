@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krptonox/Leet-Code/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/krptonox/Leet-Code/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krptonox/Leet-Code/tree/master/0035-search-insert-position) |
@@ -99,6 +100,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/krptonox/Leet-Code/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/krptonox/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -156,6 +158,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/krptonox/Leet-Code/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
