@@ -218,6 +218,7 @@
 | [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/krptonox/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/krptonox/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/krptonox/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/krptonox/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krptonox/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krptonox/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/krptonox/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/krptonox/Leet-Code/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/krptonox/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/krptonox/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/krptonox/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -288,4 +291,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/krptonox/Leet-Code/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/krptonox/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
