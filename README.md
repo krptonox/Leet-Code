@@ -125,6 +125,7 @@
 | [0020-valid-parentheses](https://github.com/krptonox/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/krptonox/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/krptonox/Leet-Code/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/krptonox/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/krptonox/Leet-Code/tree/master/0165-compare-version-numbers) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krptonox/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/krptonox/Leet-Code/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/krptonox/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/krptonox/Leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/krptonox/Leet-Code/tree/master/0735-asteroid-collision) |
