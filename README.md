@@ -67,6 +67,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/krptonox/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1598-crawler-log-folder](https://github.com/krptonox/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/krptonox/Leet-Code/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/krptonox/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/krptonox/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/krptonox/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/krptonox/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krptonox/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Brainteaser
