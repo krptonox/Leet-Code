@@ -322,4 +322,8 @@
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krptonox/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/krptonox/Leet-Code/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
