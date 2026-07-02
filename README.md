@@ -43,6 +43,7 @@
 | [0035-search-insert-position](https://github.com/krptonox/Leet-Code/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/krptonox/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krptonox/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/krptonox/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/krptonox/Leet-Code/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@
 | [0016-3sum-closest](https://github.com/krptonox/Leet-Code/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/krptonox/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/krptonox/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/krptonox/Leet-Code/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
