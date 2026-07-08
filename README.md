@@ -320,13 +320,23 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krptonox/Leet-Code/tree/master/0100-same-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krptonox/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krptonox/Leet-Code/tree/master/0100-same-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krptonox/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Database
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/krptonox/Leet-Code/tree/master/0181-employees-earning-more-than-their-managers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/krptonox/Leet-Code/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/krptonox/Leet-Code/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
