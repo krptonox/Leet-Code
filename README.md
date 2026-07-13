@@ -195,6 +195,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/krptonox/Leet-Code/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/krptonox/Leet-Code/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/krptonox/Leet-Code/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 ## Counting
