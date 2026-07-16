@@ -42,6 +42,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krptonox/Leet-Code/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/krptonox/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/krptonox/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/krptonox/Leet-Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/krptonox/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/krptonox/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/krptonox/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/krptonox/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
