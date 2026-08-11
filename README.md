@@ -13,6 +13,7 @@
 | [0070-climbing-stairs](https://github.com/krptonox/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/krptonox/Leet-Code/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/krptonox/Leet-Code/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/krptonox/Leet-Code/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/krptonox/Leet-Code/tree/master/0504-base-7) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krptonox/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/krptonox/Leet-Code/tree/master/0788-rotated-digits) |
@@ -238,6 +239,7 @@
 | [0137-single-number-ii](https://github.com/krptonox/Leet-Code/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/krptonox/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/krptonox/Leet-Code/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/krptonox/Leet-Code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krptonox/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
@@ -247,6 +249,7 @@
 | [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/krptonox/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/krptonox/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/krptonox/Leet-Code/tree/master/0342-power-of-four) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krptonox/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union-Find
 |  |
