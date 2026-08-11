@@ -81,6 +81,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/krptonox/Leet-Code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/krptonox/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krptonox/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krptonox/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/krptonox/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3838-weighted-word-mapping](https://github.com/krptonox/Leet-Code/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/krptonox/Leet-Code/tree/master/3861-minimum-capacity-box) |
@@ -177,6 +178,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/krptonox/Leet-Code/tree/master/2716-minimize-string-length) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krptonox/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/krptonox/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
@@ -190,6 +192,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krptonox/Leet-Code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krptonox/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krptonox/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
