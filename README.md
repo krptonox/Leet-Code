@@ -158,6 +158,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krptonox/Leet-Code/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/krptonox/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/krptonox/Leet-Code/tree/master/2716-minimize-string-length) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/krptonox/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/krptonox/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3838-weighted-word-mapping](https://github.com/krptonox/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -183,6 +184,7 @@
 | [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/krptonox/Leet-Code/tree/master/2716-minimize-string-length) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krptonox/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/krptonox/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/krptonox/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
@@ -202,6 +204,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/krptonox/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/krptonox/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
