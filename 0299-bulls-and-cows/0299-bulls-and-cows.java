@@ -28,11 +28,9 @@ class Solution {
             }
         }
 
-        System.out.print(bull);
-        System.out.print(cow);
         String str = Integer.toString(bull);
         String str1 = Integer.toString(cow);
-        
+
         return bull+"A"+cow+"B";
     }
 }
