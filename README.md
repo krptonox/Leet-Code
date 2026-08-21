@@ -146,6 +146,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/krptonox/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/krptonox/Leet-Code/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/krptonox/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/krptonox/Leet-Code/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/krptonox/Leet-Code/tree/master/0392-is-subsequence) |
@@ -173,6 +174,7 @@
 | [0217-contains-duplicate](https://github.com/krptonox/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krptonox/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/krptonox/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/krptonox/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -216,6 +218,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/krptonox/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [1189-maximum-number-of-balloons](https://github.com/krptonox/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krptonox/Leet-Code/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
