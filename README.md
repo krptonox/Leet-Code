@@ -22,6 +22,7 @@
 | [2396-strictly-palindromic-number](https://github.com/krptonox/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2652-sum-multiples](https://github.com/krptonox/Leet-Code/tree/master/2652-sum-multiples) |
 | [3516-find-closest-person](https://github.com/krptonox/Leet-Code/tree/master/3516-find-closest-person) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/krptonox/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
