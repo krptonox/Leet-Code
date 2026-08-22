@@ -9,14 +9,9 @@ class Solution {
             pro *= lst;
             n /= 10;
         }
-        System.out.println(sum);
-        System.out.println(pro);
+
         int ch = sum+pro;
 
-        if(n1%ch==0){
-            return true;
-        }
-
-        return false;
+        return n1%ch==0;
     }
 }
