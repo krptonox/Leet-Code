@@ -15,10 +15,6 @@ class Solution {
                 }
             }
 
-        System.out.print(count);
-        
-        int nmax = nums[nums.length - 1];
-
-        return nmax;
+        return nums[nums.length - 1];
     }
 }
