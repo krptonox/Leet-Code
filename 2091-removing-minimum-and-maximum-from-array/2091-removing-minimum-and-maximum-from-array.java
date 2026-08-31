@@ -16,11 +16,6 @@ class Solution {
                 minind = i;
             }
         }
-       
-        System.out.println(max);
-        System.out.println(min);
-        System.out.println(maxind);
-        System.out.println(minind);
 
         int minLeft = minind + 1;
         int minRight = nums.length - minind;
