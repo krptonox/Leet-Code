@@ -83,6 +83,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/krptonox/Leet-Code/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krptonox/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/krptonox/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krptonox/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
@@ -299,6 +300,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/krptonox/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/krptonox/Leet-Code/tree/master/0134-gas-station) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/krptonox/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
