@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/krptonox/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/krptonox/Leet-Code/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/krptonox/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krptonox/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/krptonox/Leet-Code/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/krptonox/Leet-Code/tree/master/0292-nim-game) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/krptonox/Leet-Code/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/krptonox/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krptonox/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krptonox/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/krptonox/Leet-Code/tree/master/0198-house-robber) |
@@ -385,4 +387,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/krptonox/Leet-Code/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/krptonox/Leet-Code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
