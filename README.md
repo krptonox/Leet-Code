@@ -15,6 +15,7 @@
 | [0204-count-primes](https://github.com/krptonox/Leet-Code/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/krptonox/Leet-Code/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/krptonox/Leet-Code/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/krptonox/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/krptonox/Leet-Code/tree/master/0504-base-7) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krptonox/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/krptonox/Leet-Code/tree/master/0788-rotated-digits) |
@@ -164,6 +165,7 @@
 | [0344-reverse-string](https://github.com/krptonox/Leet-Code/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/krptonox/Leet-Code/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/krptonox/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/krptonox/Leet-Code/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/krptonox/Leet-Code/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/krptonox/Leet-Code/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/krptonox/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/krptonox/Leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/krptonox/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/krptonox/Leet-Code/tree/master/0844-backspace-string-compare) |
