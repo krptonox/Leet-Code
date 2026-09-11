@@ -22,6 +22,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/krptonox/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/krptonox/Leet-Code/tree/master/2396-strictly-palindromic-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/krptonox/Leet-Code/tree/master/2525-categorize-box-according-to-criteria) |
 | [2652-sum-multiples](https://github.com/krptonox/Leet-Code/tree/master/2652-sum-multiples) |
 | [3516-find-closest-person](https://github.com/krptonox/Leet-Code/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/krptonox/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
