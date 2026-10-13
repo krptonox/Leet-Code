@@ -83,6 +83,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krptonox/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krptonox/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/krptonox/Leet-Code/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/krptonox/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/krptonox/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/krptonox/Leet-Code/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/krptonox/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
@@ -118,6 +119,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/krptonox/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krptonox/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krptonox/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/krptonox/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/krptonox/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krptonox/Leet-Code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krptonox/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
