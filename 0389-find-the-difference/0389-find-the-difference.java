@@ -1,6 +1,5 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        HashMap<String,Integer> map = new HashMap<>();
         int arr[] = new int[27];
         for(int i=0;i<t.length();i++){
             char ad = t.charAt(i);
