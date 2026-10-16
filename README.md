@@ -30,6 +30,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krptonox/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/krptonox/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/krptonox/Leet-Code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krptonox/Leet-Code/tree/master/0063-unique-paths-ii) |
@@ -56,6 +57,7 @@
 | [0035-search-insert-position](https://github.com/krptonox/Leet-Code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/krptonox/Leet-Code/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/krptonox/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/krptonox/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/krptonox/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/krptonox/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krptonox/Leet-Code/tree/master/0064-minimum-path-sum) |
@@ -137,6 +139,7 @@
 | [0015-3sum](https://github.com/krptonox/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/krptonox/Leet-Code/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/krptonox/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/krptonox/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krptonox/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krptonox/Leet-Code/tree/master/0125-valid-palindrome) |
@@ -340,6 +343,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krptonox/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krptonox/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/krptonox/Leet-Code/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/krptonox/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/krptonox/Leet-Code/tree/master/0682-baseball-game) |
@@ -374,6 +378,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krptonox/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krptonox/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
