@@ -80,6 +80,7 @@
 | [0283-move-zeroes](https://github.com/krptonox/Leet-Code/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/krptonox/Leet-Code/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/krptonox/Leet-Code/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/krptonox/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/krptonox/Leet-Code/tree/master/0682-baseball-game) |
@@ -201,6 +202,7 @@
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/krptonox/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/krptonox/Leet-Code/tree/master/0454-4sum-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/krptonox/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krptonox/Leet-Code/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -225,6 +227,7 @@
 | [0242-valid-anagram](https://github.com/krptonox/Leet-Code/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/krptonox/Leet-Code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/krptonox/Leet-Code/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krptonox/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/krptonox/Leet-Code/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/krptonox/Leet-Code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krptonox/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
